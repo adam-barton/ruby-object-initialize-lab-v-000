@@ -9,4 +9,3 @@ end
 
 end
 
-fido = Dog.new("Fido")
