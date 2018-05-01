@@ -19,4 +19,7 @@ end
 
 
 
-fido = Dog.new("Pug")
+fido = Dog.new("Fido")
+fido.breed = "Pug"
+
+puts fido.breed
