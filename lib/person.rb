@@ -5,5 +5,8 @@ class Person
 
 def name
   @name
+end
 
 end
+
+fido = Dog.new("Fido")
